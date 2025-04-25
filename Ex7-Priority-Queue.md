@@ -20,8 +20,9 @@ Developed by: Preethi S
 RegisterNumber:  212223230157
 */
 
-/*#include<stdio.h> int size = 0;
-*/
+#include<stdio.h>
+int size = 0;
+
 voidprintArray(int array[], int size)
 {
 int i; for(i=0;i<size;i++)
